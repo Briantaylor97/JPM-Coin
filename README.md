@@ -2,6 +2,14 @@
 
 ![](https://static01.nyt.com/images/2014/12/23/business/dbpix-hack/dbpix-hack-tmagArticle.jpg)
 
+## Description
+
+description content
+
+**Contributors:** 
+Joshua, Bryan, Oscar
+
+///////////// ********Draft and notes below this******/////////////////\
 JPM Coin project
 * What is the background of your company? What do they do? Who are their competitors?
 
@@ -13,16 +21,6 @@ JPM Coin project
 
 * What is the prognosis for this company? Where do they expect to be in the future?
 
-
-* **H1 heading:** A title for the FinTech case study
-
-* **Image:** An image relevant to the case study
-
-* **H2 description:** A description header
-
-* **Description content:** Content for the description
-
-* **Contributors:** The names of everyone in your group
 
 * **H3 heading:** A title for the FinTech case study report
 
